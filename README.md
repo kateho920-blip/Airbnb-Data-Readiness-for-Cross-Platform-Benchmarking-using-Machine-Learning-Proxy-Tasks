@@ -1,4 +1,4 @@
-# 📌 Airbnb's Data Readiness for Cross-Platform Benchmarking
+#  Airbnb's Data Readiness for Cross-Platform Benchmarking
 > **A Comparative Analysis with Booking.com and Tripadvisor using Machine Learning Proxy Tasks**
 
 [![Academic Project](https://img.shields.io/badge/Academic-HKBU_BBA_FYP-purple?style=for-the-badge)](https://github.com/kateho920)
